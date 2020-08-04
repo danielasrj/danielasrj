@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**danielasrj/danielasrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Oito anos de experiência na área administrativa fizeram com que o meu conhecimento se ampliasse. Independente do setor de atuação, seja ele Vendas, Telecomunicações, Construção civil e Educação, a busca por novos desafios me torna apta e disponível para desenvolver as atividades exigidas.
+A habilidade de adaptar-se ao meio, corroboram para que eu desenvolva as atribuições de forma prática e ágil, objetivando sempre a qualidade.
+Responsabilidade, compromisso, dinamismo e ética, são cruciais e indispensáveis para o desenvolvimento do meu trabalho. 
 
-Here are some ideas to get you started:
+- 🔭 Trabalho atualmente no Perfil Language Academy, como assistente adm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou estudando Sistemas para internet: IOT
+
+- 👯 Procuro colaborar com desenvolvimento/programação
+
+- 👯 Posso ajudar com desenvolvimento/programação
+
+- 📫 Meus contatos:
+Email: daniela.eletro@gmail.com
+Linkedin: https://www.linkedin.com/in/daniela-silva-rodrigues-de-jesus-63a30156
+
