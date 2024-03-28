@@ -6,7 +6,7 @@ Responsabilidade, compromisso, dinamismo e ética, são cruciais e indispensáve
 
 - 🔭 Trabalho atualmente no Perfil Language Academy, como assistente adm
 
-- 🌱 Estou estudando Sistemas para internet: IOT
+- 🌱 Concluí o curso de Sistemas para internet: IOT
 
 - 👯 Procuro colaborar com desenvolvimento/programação
 
